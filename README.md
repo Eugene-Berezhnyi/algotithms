@@ -1,0 +1,2 @@
+# algotithms
+Different Algorithms exercises
